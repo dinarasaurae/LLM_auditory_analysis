@@ -1,6 +1,8 @@
  # LLM auditory analysis through VK and Reddit API
 
  [Отчёт](Отчёт.pdf)
+ 
+https://docs.google.com/presentation/d/1pgw8jx9UjvU6dgLZoLaD2kSWmlgybUHLzu7rfixm3Ec/edit?pli=1#slide=id.g2b9ccf1aeca_2_0
 
 Целью работы является комплексный анализ тематического 
 наполнения и пользователей сообществ в социальных сетях. Исследование 
